@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Léo Christophe, from France<br><br>- 🔭 I’m working as fullstack developer<br>- 📚 I'm currently studying computer science<br>- ⚡ In my free time I learn japanese, I develop and I play videogames.</p>
+<p align="left">I'm Léo Christophe, from France<br><br>- 📚 I'm currently studying computer science<br>- ⚡ In my free time I learn japanese, I develop and I play videogames.</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leo-christophe.leo-christophe&"  />
 
 ###
@@ -14,10 +14,10 @@
   <a href="https://x.com/leo7744002" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/leochristophe7/?next=%2Fleo_sama7%2F" target="_blank">
+  <a href="https://www.instagram.com/leochristophe7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="leochristophe@outlook.fr" target="_blank">
+  <a href="mailto:leochristophe@outlook.fr">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
 </div>
