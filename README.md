@@ -99,3 +99,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
+
+<br>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-christophe&theme=default&show_icons=true&hide_border=true&layout=compact" alt="leo-christophe's GitHub Stats" />
+</div>
