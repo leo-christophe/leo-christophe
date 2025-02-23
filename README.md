@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I'm Léo Christophe, from France<br><br>- 🔭 I’m working as fullstack developer<br>- 📚 I'm currently studying computer science<br>- ⚡ In my free time I learn japanese, I develop and I play videogames.</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leo-christophe.leo-christophe&"  />
 
 ###
 
@@ -97,24 +98,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
-###
-
-<div align="center">
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leo-christophe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leo-christophe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/leo-christophe/leo-christophe/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leo-christophe.leo-christophe&"  />
-
-###
